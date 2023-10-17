@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silloky (Elias Kirkwood)
+- 👋 Hi, I’m @Silloky
 - 👀 I’m interested in coding and biology
 - 🌱 I’m currently learning Python/JavaScript
 - 💞️ I’m looking to collaborate on PowerShell projects
