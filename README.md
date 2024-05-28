@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Silloky
-- 👀 I’m interested in coding and biology
-- 🌱 I’m currently learning Python/JavaScript
-- 💞️ I’m looking to collaborate on PowerShell projects
-- 📫 How to reach me ...
+- 👀 I’m interested in coding, physics, chemistry, well, science  more generally
+- 🌱 I’m currently learning Typescript & Vue
+- 💞️ I’m looking to collaborate on anything, I'm willing to learn new languages
+- 📫 How to reach me : @silloky on Discord
 
 [![Silloky's GitHub stats](https://github-readme-stats.vercel.app/api?username=silloky)](https://github.com/anuraghazra/github-readme-stats)
 
