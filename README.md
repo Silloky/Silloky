@@ -14,7 +14,12 @@ I'm a high-school student from France that's been interested in coding for the p
 
 I'm currently opening up and discovering many new frameworks and languages.
 
-I'm working on the Microsoft & Freecodecamp C# certification.
+I'm working on the Freecodecamp Machine Learning with Python
+
+## Diplomas
+
+* Microsoft & Freecodecamp C# certification
+* Freecodecamp Back End Development and APIs
 
 ## Recent contributions
 
