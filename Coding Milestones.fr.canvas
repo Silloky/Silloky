@@ -1,768 +1,516 @@
 {
-  "edges": [
-    {
-      "fromNode": "d55d6b90f74a8adc",
-      "fromSide": "top",
-      "id": "fc4899fbb0b24ed5",
-      "toNode": "9c72f0318ccf44e4",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "d55d6b90f74a8adc",
-      "fromSide": "top",
-      "id": "7baa12465f749680",
-      "toNode": "571e91d3ef70d2c2",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "da010a5d581126dc",
-      "fromSide": "left",
-      "id": "74d656662aa84406",
-      "toNode": "b34801f598608c4a",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "da010a5d581126dc",
-      "fromSide": "left",
-      "id": "0974576135d36e2f",
-      "toNode": "5cc8d69de926aa7f",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "da010a5d581126dc",
-      "fromSide": "left",
-      "id": "b1528f53cd3c055d",
-      "toNode": "c267c6cacd6d8543",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "da010a5d581126dc",
-      "fromSide": "left",
-      "id": "b11fd3aa6957ff24",
-      "toNode": "b1696e3040f46704",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "cbca760e8af7fd10",
-      "fromSide": "left",
-      "id": "93dcb51f325a5ceb",
-      "toNode": "6f7ad7440b73de7d",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "c2a2f4ab8126c9ae",
-      "fromSide": "left",
-      "id": "c35af0fffb82c967",
-      "toNode": "75663ebbcae5a058",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "d55d6b90f74a8adc",
-      "fromSide": "right",
-      "id": "a8763b8cac25f7e0",
-      "toEnd": "none",
-      "toNode": "d9d74299c2cecf56",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "cbca760e8af7fd10",
-      "fromSide": "right",
-      "id": "0d176238646a995e",
-      "toEnd": "none",
-      "toNode": "0c0146567a5aaead",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "da010a5d581126dc",
-      "fromSide": "right",
-      "id": "ccd38b1d8d99f921",
-      "toEnd": "none",
-      "toNode": "36b97a79fbe81be0",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "dbfb7e1afe3015d5",
-      "fromSide": "left",
-      "id": "ce3d1cddbff9bf54",
-      "toNode": "8dfa8ef9447f592b",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "dbfb7e1afe3015d5",
-      "fromSide": "left",
-      "id": "8cccbaca353ef0ba",
-      "toNode": "e2b23b7eb424db26",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "dbfb7e1afe3015d5",
-      "fromSide": "left",
-      "id": "661c13309f6d2dd2",
-      "toNode": "6b7963acf7d661d8",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "cbca760e8af7fd10",
-      "fromSide": "bottom",
-      "id": "61a3a4b5b084516e",
-      "toNode": "e1dc63dd9a8f11da",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "cbca760e8af7fd10",
-      "fromSide": "bottom",
-      "id": "feb9813df43d6a79",
-      "toNode": "904dae861d826474",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "cbca760e8af7fd10",
-      "fromSide": "left",
-      "id": "7f013c61c22ee3be",
-      "toNode": "ec5f8a3fe7b7d292",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "7789788e5a9cce86",
-      "fromSide": "left",
-      "id": "f4dfa75e4bb2440e",
-      "styleAttributes": {
-      },
-      "toNode": "cbca760e8af7fd10",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "5912796ad723e765",
-      "fromSide": "left",
-      "id": "03242f27d006df8d",
-      "styleAttributes": {
-        "arrow": null
-      },
-      "toNode": "c2a2f4ab8126c9ae",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "c2a2f4ab8126c9ae",
-      "fromSide": "left",
-      "id": "00f86fb54ba7de70",
-      "styleAttributes": {
-      },
-      "toNode": "9c72f0318ccf44e4",
-      "toSide": "right"
-    },
-    {
-      "fromNode": "bcd4f2ed12db4a99",
-      "fromSide": "right",
-      "id": "e22df5db02a600db",
-      "toNode": "9c72f0318ccf44e4",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "bcd4f2ed12db4a99",
-      "fromSide": "right",
-      "id": "cdf2718be7055c0f",
-      "toNode": "571e91d3ef70d2c2",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "bcd4f2ed12db4a99",
-      "fromSide": "right",
-      "id": "838b6da7c7eff8f6",
-      "toNode": "b34801f598608c4a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "bcd4f2ed12db4a99",
-      "fromSide": "right",
-      "id": "bca590e5fe057863",
-      "toNode": "75663ebbcae5a058",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d44adbaf67ec8db2",
-      "fromSide": "right",
-      "id": "d7f63fa3bc2d5d76",
-      "toNode": "5cc8d69de926aa7f",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d44adbaf67ec8db2",
-      "fromSide": "right",
-      "id": "ca22588bd0587e4a",
-      "toNode": "c267c6cacd6d8543",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d44adbaf67ec8db2",
-      "fromSide": "right",
-      "id": "417d03bf904ef39b",
-      "toNode": "b1696e3040f46704",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "d44adbaf67ec8db2",
-      "fromSide": "right",
-      "id": "49015985e7603a5b",
-      "toNode": "6f7ad7440b73de7d",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8e3d92e03f61f300",
-      "fromSide": "right",
-      "id": "440068da1043a648",
-      "toNode": "8dfa8ef9447f592b",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8e3d92e03f61f300",
-      "fromSide": "right",
-      "id": "1b6cff82f3ab79c5",
-      "toNode": "e2b23b7eb424db26",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "8e3d92e03f61f300",
-      "fromSide": "right",
-      "id": "f898aea0973f10f6",
-      "toNode": "6b7963acf7d661d8",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "efd1a57aff46665a",
-      "fromSide": "right",
-      "id": "bdea33fd2373072f",
-      "toNode": "e1dc63dd9a8f11da",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "efd1a57aff46665a",
-      "fromSide": "right",
-      "id": "e7a0bfde01abbc2b",
-      "toNode": "ec5f8a3fe7b7d292",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "efd1a57aff46665a",
-      "fromSide": "right",
-      "id": "ee9fc8c547325e1d",
-      "styleAttributes": {
-        "pathfindingMethod": null
-      },
-      "toNode": "904dae861d826474",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "a6458d5085666adb",
-      "fromSide": "right",
-      "id": "27d41ab88c88a554",
-      "toNode": "d44adbaf67ec8db2",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "63854dd70a0a708f",
-      "fromSide": "right",
-      "id": "59f08630579bf114",
-      "toNode": "bcd4f2ed12db4a99",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "9f87336909eb5d08",
-      "fromSide": "right",
-      "id": "1a82823afdfc7782",
-      "toNode": "8e3d92e03f61f300",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "060b4925ed711e78",
-      "fromSide": "right",
-      "id": "745819430b18b328",
-      "toNode": "efd1a57aff46665a",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "c033c5434f229179",
-      "fromSide": "right",
-      "id": "14c29458e76515aa",
-      "styleAttributes": {
-      },
-      "toNode": "bcd4f2ed12db4a99",
-      "toSide": "left"
-    }
-  ],
-  "nodes": [
-    {
-      "color": "6",
-      "height": 1680,
-      "id": "5baa6dad2d20ce32",
-      "label": "Tous les projets",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 381,
-      "x": 640,
-      "y": -680
-    },
-    {
-      "color": "2",
-      "height": 1345,
-      "id": "5b15632fbefc3ce1",
-      "label": "Groupe de projets",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 371,
-      "x": 60,
-      "y": -420
-    },
-    {
-      "color": "4",
-      "height": 1021,
-      "id": "6b31adf0613e8eee",
-      "label": "Langages",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 300,
-      "x": 1220,
-      "y": -420
-    },
-    {
-      "color": "5",
-      "height": 695,
-      "id": "01362c0b64ec36b9",
-      "label": "Chronologie",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 409,
-      "x": -520,
-      "y": -99
-    },
-    {
-      "color": "#e45c44",
-      "height": 342,
-      "id": "4edd95de1aa0be3f",
-      "label": "Services/outils",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 360,
-      "x": 1732,
-      "y": -185
-    },
-    {
-      "color": "3",
-      "height": 218,
-      "id": "f64002b27ce0d2f1",
-      "label": "Diplômes",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 360,
-      "x": 1732,
-      "y": 240
-    },
-    {
-      "height": 86,
-      "id": "9c72f0318ccf44e4",
-      "styleAttributes": {
-      },
-      "text": "Déploiement des services de manière locale en **Powershell**",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": -637
-    },
-    {
-      "height": 60,
-      "id": "571e91d3ef70d2c2",
-      "styleAttributes": {
-      },
-      "text": "Mise en place de tous les services avec **Docker**",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": -528
-    },
-    {
-      "color": "3",
-      "height": 121,
-      "id": "b34801f598608c4a",
-      "styleAttributes": {
-      },
-      "text": "**PhotoUploader**, un outil de gestion de galerie photo distante, avec modification des métadonnées intégrée",
-      "type": "text",
-      "width": 284,
-      "x": 691,
-      "y": -445
-    },
-    {
-      "height": 60,
-      "id": "6f7ad7440b73de7d",
-      "styleAttributes": {
-      },
-      "text": "Application mobile pour le staff",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": 152
-    },
-    {
-      "color": "3",
-      "height": 105,
-      "id": "8dfa8ef9447f592b",
-      "styleAttributes": {
-      },
-      "text": "Création d'emplois du temps de lycée par recuit simulé (ML)",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": 260
-    },
-    {
-      "height": 122,
-      "id": "dbfb7e1afe3015d5",
-      "styleAttributes": {
-      },
-      "text": "##### Algorithmique & ML\n\n![My Skills](https://skillicons.dev/icons?i=python,tensorflow,anaconda&theme=dark&perline=5) ",
-      "type": "text",
-      "width": 260,
-      "x": 1240,
-      "y": 20
-    },
-    {
-      "height": 60,
-      "id": "5cc8d69de926aa7f",
-      "styleAttributes": {
-      },
-      "text": "Site vitrine",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": -136
-    },
-    {
-      "height": 102,
-      "id": "75663ebbcae5a058",
-      "styleAttributes": {
-      },
-      "text": "Fork et modification d'un cloud auto-hébergé pour les tablettes Remarkable",
-      "type": "text",
-      "width": 267,
-      "x": 691,
-      "y": -301
-    },
-    {
-      "height": 82,
-      "id": "060b4925ed711e78",
-      "styleAttributes": {
-      },
-      "text": "Programmation orientée-objet en JS et TS pour des projets de Web",
-      "type": "text",
-      "width": 369,
-      "x": -500,
-      "y": 494
-    },
-    {
-      "height": 76,
-      "id": "a6458d5085666adb",
-      "styleAttributes": {
-      },
-      "text": "Apprentissage de l'HTML, CSS, JS et PHP pour la Ronde de l'Espoir",
-      "type": "text",
-      "width": 369,
-      "x": -500,
-      "y": 280
-    },
-    {
-      "height": 60,
-      "id": "9f87336909eb5d08",
-      "styleAttributes": {
-      },
-      "text": "Développement en Python d'algorithmes complexes",
-      "type": "text",
-      "width": 369,
-      "x": -500,
-      "y": 396
-    },
-    {
-      "color": "1",
-      "height": 133,
-      "id": "22bdecc84c2375ab",
-      "styleAttributes": {
-      },
-      "text": "##### Systèmes d'exploitation\n![My Skills](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu&theme=dark&perline=4)",
-      "type": "text",
-      "width": 283,
-      "x": -457,
-      "y": 640
-    },
-    {
-      "height": 134,
-      "id": "c2a2f4ab8126c9ae",
-      "styleAttributes": {
-      },
-      "text": "##### Langages compilés\n![My Skills](https://skillicons.dev/icons?i=go,cs,net&theme=dark&perline=5)",
-      "type": "text",
-      "width": 228,
-      "x": 1256,
-      "y": 182
-    },
-    {
-      "height": 200,
-      "id": "cbca760e8af7fd10",
-      "styleAttributes": {
-      },
-      "text": "##### Web avec frameworks\n\n![My Skills](https://skillicons.dev/icons?i=nodejs,ts,vue,pinia,react,mongodb&theme=dark&perline=3)",
-      "type": "text",
-      "width": 260,
-      "x": 1240,
-      "y": 356
-    },
-    {
-      "height": 75,
-      "id": "4f5b068ca1dfd71b",
-      "styleAttributes": {
-      },
-      "text": "Programmation visuelle de robots Lego Mindstorms",
-      "type": "text",
-      "width": 369,
-      "x": -500,
-      "y": -79
-    },
-    {
-      "height": 76,
-      "id": "c033c5434f229179",
-      "styleAttributes": {
-      },
-      "text": "Programmation procédurale en Batch et Powershell pour des automatisations",
-      "type": "text",
-      "width": 369,
-      "x": -500,
-      "y": 36
-    },
-    {
-      "height": 191,
-      "id": "da010a5d581126dc",
-      "styleAttributes": {
-      },
-      "text": "##### Débuts en Web\n\n![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql&theme=dark&perline=3)",
-      "type": "text",
-      "width": 220,
-      "x": 1260,
-      "y": -211
-    },
-    {
-      "height": 177,
-      "id": "d44adbaf67ec8db2",
-      "styleAttributes": {
-      },
-      "text": "#### Ronde de l'Espoir\n\nChef d'équipe pour le développement d'un ensemble de sites dynamiques pour un projet caritatif au sein du lycée",
-      "type": "text",
-      "width": 331,
-      "x": 80,
-      "y": -3
-    },
-    {
-      "height": 206,
-      "id": "8e3d92e03f61f300",
-      "styleAttributes": {
-      },
-      "text": "#### Algorithmique complexe\n\nUtilisation de Python pour le développement d'algorithmes d'analyse de données, mais aussi des bases d'un système de *machine learning*",
-      "type": "text",
-      "width": 319,
-      "x": 86,
-      "y": 390
-    },
-    {
-      "height": 75,
-      "id": "36b97a79fbe81be0",
-      "styleAttributes": {
-      },
-      "text": "![My Skills](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark&perline=4)",
-      "type": "text",
-      "width": 240,
-      "x": 1752,
-      "y": -57
-    },
-    {
-      "height": 72,
-      "id": "0c0146567a5aaead",
-      "styleAttributes": {
-      },
-      "text": "\n![My Skills](https://skillicons.dev/icons?i=postman,npm,vercel&theme=dark&perline=5)",
-      "type": "text",
-      "width": 240,
-      "x": 1752,
-      "y": 54
-    },
-    {
-      "height": 75,
-      "id": "5912796ad723e765",
-      "styleAttributes": {
-      },
-      "text": "*Foundational C#* de Microsoft et Freecodecamp",
-      "type": "text",
-      "width": 308,
-      "x": 1752,
-      "y": 265
-    },
-    {
-      "height": 74,
-      "id": "7789788e5a9cce86",
-      "styleAttributes": {
-      },
-      "text": "*Back End Development and APIs* de Freecodecamp",
-      "type": "text",
-      "width": 308,
-      "x": 1752,
-      "y": 360
-    },
-    {
-      "height": 162,
-      "id": "bcd4f2ed12db4a99",
-      "styleAttributes": {
-      },
-      "text": "#### Construction d'un NAS\nConstruction d'un serveur (Raspberry Pi 4) de type NAS",
-      "type": "text",
-      "width": 280,
-      "x": 106,
-      "y": -361
-    },
-    {
-      "height": 88,
-      "id": "63854dd70a0a708f",
-      "styleAttributes": {
-      },
-      "text": "Apprentissage de l'environnement Linux en ligne de commande",
-      "type": "text",
-      "width": 369,
-      "x": -500,
-      "y": 152
-    },
-    {
-      "height": 60,
-      "id": "46e199535d7b7c40",
-      "styleAttributes": {
-      },
-      "text": "# Depuis 5 ans...",
-      "type": "text",
-      "width": 260,
-      "x": -445,
-      "y": -259
-    },
-    {
-      "height": 72,
-      "id": "d9d74299c2cecf56",
-      "styleAttributes": {
-      },
-      "text": "\n![My Skills](https://skillicons.dev/icons?i=raspberrypi,debian,docker,nginx,cloudflare&theme=dark&perline=5)",
-      "type": "text",
-      "width": 320,
-      "x": 1752,
-      "y": -165
-    },
-    {
-      "height": 65,
-      "id": "efd1a57aff46665a",
-      "styleAttributes": {
-      },
-      "text": "#### Divers projets de Web",
-      "type": "text",
-      "width": 276,
-      "x": 108,
-      "y": 800
-    },
-    {
-      "height": 122,
-      "id": "d55d6b90f74a8adc",
-      "styleAttributes": {
-      },
-      "text": "##### Administration\n\n![My Skills](https://skillicons.dev/icons?i=powershell,bash&theme=dark)",
-      "type": "text",
-      "width": 220,
-      "x": 1260,
-      "y": -373
-    },
-    {
-      "height": 60,
-      "id": "c267c6cacd6d8543",
-      "styleAttributes": {
-      },
-      "text": "Site de donation avec paiement par Stripe",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": -53
-    },
-    {
-      "color": "3",
-      "height": 99,
-      "id": "b1696e3040f46704",
-      "styleAttributes": {
-      },
-      "text": "Site d'inscription fondé sur un système relationnel entre les inscrits",
-      "type": "text",
-      "width": 250,
-      "x": 691,
-      "y": 30
-    },
-    {
-      "height": 50,
-      "id": "904dae861d826474",
-      "styleAttributes": {
-      },
-      "text": "Et autres...",
-      "type": "text",
-      "width": 145,
-      "x": 691,
-      "y": 900
-    },
-    {
-      "color": "3",
-      "height": 90,
-      "id": "ec5f8a3fe7b7d292",
-      "styleAttributes": {
-      },
-      "text": "Site de gestion des retards lors de rendez-vous parents-professeurs",
-      "type": "text",
-      "width": 310,
-      "x": 691,
-      "y": 680
-    },
-    {
-      "height": 53,
-      "id": "e1dc63dd9a8f11da",
-      "styleAttributes": {
-      },
-      "text": "Site portfolio",
-      "type": "text",
-      "width": 157,
-      "x": 691,
-      "y": 806
-    },
-    {
-      "color": "3",
-      "height": 139,
-      "id": "e2b23b7eb424db26",
-      "styleAttributes": {
-      },
-      "text": "Algorithme d'analyse d'abre de divergence génétique, lors d'un stage en laboratoire de recherche évolutive",
-      "type": "text",
-      "width": 290,
-      "x": 691,
-      "y": 388
-    },
-    {
-      "height": 111,
-      "id": "6b7963acf7d661d8",
-      "styleAttributes": {
-      },
-      "text": "*Data science* : retravail des données de Parcoursup et de la SCEI avec Pandas",
-      "type": "text",
-      "width": 254,
-      "x": 691,
-      "y": 545
-    }
-  ]
+	"edges":[
+		{"fromNode":"d55d6b90f74a8adc","fromSide":"top","id":"fc4899fbb0b24ed5","toNode":"9c72f0318ccf44e4","toSide":"right"},
+		{"fromNode":"d55d6b90f74a8adc","fromSide":"top","id":"7baa12465f749680","toNode":"571e91d3ef70d2c2","toSide":"right"},
+		{"fromNode":"da010a5d581126dc","fromSide":"left","id":"74d656662aa84406","toNode":"b34801f598608c4a","toSide":"right"},
+		{"fromNode":"da010a5d581126dc","fromSide":"left","id":"0974576135d36e2f","toNode":"5cc8d69de926aa7f","toSide":"right"},
+		{"fromNode":"da010a5d581126dc","fromSide":"left","id":"b1528f53cd3c055d","toNode":"c267c6cacd6d8543","toSide":"right"},
+		{"fromNode":"da010a5d581126dc","fromSide":"left","id":"b11fd3aa6957ff24","toNode":"b1696e3040f46704","toSide":"right"},
+		{"fromNode":"cbca760e8af7fd10","fromSide":"left","id":"93dcb51f325a5ceb","toNode":"6f7ad7440b73de7d","toSide":"right"},
+		{"fromNode":"c2a2f4ab8126c9ae","fromSide":"left","id":"c35af0fffb82c967","toNode":"75663ebbcae5a058","toSide":"right"},
+		{"fromNode":"d55d6b90f74a8adc","fromSide":"right","id":"a8763b8cac25f7e0","toEnd":"none","toNode":"d9d74299c2cecf56","toSide":"left"},
+		{"fromNode":"cbca760e8af7fd10","fromSide":"right","id":"0d176238646a995e","toEnd":"none","toNode":"0c0146567a5aaead","toSide":"left"},
+		{"fromNode":"da010a5d581126dc","fromSide":"right","id":"ccd38b1d8d99f921","toEnd":"none","toNode":"36b97a79fbe81be0","toSide":"left"},
+		{"fromNode":"dbfb7e1afe3015d5","fromSide":"left","id":"ce3d1cddbff9bf54","toNode":"8dfa8ef9447f592b","toSide":"right"},
+		{"fromNode":"dbfb7e1afe3015d5","fromSide":"left","id":"8cccbaca353ef0ba","toNode":"e2b23b7eb424db26","toSide":"right"},
+		{"fromNode":"dbfb7e1afe3015d5","fromSide":"left","id":"661c13309f6d2dd2","toNode":"6b7963acf7d661d8","toSide":"right"},
+		{"fromNode":"cbca760e8af7fd10","fromSide":"bottom","id":"61a3a4b5b084516e","toNode":"e1dc63dd9a8f11da","toSide":"right"},
+		{"fromNode":"cbca760e8af7fd10","fromSide":"bottom","id":"feb9813df43d6a79","toNode":"904dae861d826474","toSide":"right"},
+		{"fromNode":"cbca760e8af7fd10","fromSide":"left","id":"7f013c61c22ee3be","toNode":"ec5f8a3fe7b7d292","toSide":"right"},
+		{
+			"fromNode":"7789788e5a9cce86",
+			"fromSide":"left",
+			"id":"f4dfa75e4bb2440e",
+			"styleAttributes":{},
+			"toNode":"cbca760e8af7fd10",
+			"toSide":"right"
+		},
+		{
+			"fromNode":"5912796ad723e765",
+			"fromSide":"left",
+			"id":"03242f27d006df8d",
+			"styleAttributes":{
+				"arrow":null
+			},
+			"toNode":"c2a2f4ab8126c9ae",
+			"toSide":"right"
+		},
+		{
+			"fromNode":"c2a2f4ab8126c9ae",
+			"fromSide":"left",
+			"id":"00f86fb54ba7de70",
+			"styleAttributes":{},
+			"toNode":"9c72f0318ccf44e4",
+			"toSide":"right"
+		},
+		{"fromNode":"bcd4f2ed12db4a99","fromSide":"right","id":"e22df5db02a600db","toNode":"9c72f0318ccf44e4","toSide":"left"},
+		{"fromNode":"bcd4f2ed12db4a99","fromSide":"right","id":"cdf2718be7055c0f","toNode":"571e91d3ef70d2c2","toSide":"left"},
+		{"fromNode":"bcd4f2ed12db4a99","fromSide":"right","id":"838b6da7c7eff8f6","toNode":"b34801f598608c4a","toSide":"left"},
+		{"fromNode":"bcd4f2ed12db4a99","fromSide":"right","id":"bca590e5fe057863","toNode":"75663ebbcae5a058","toSide":"left"},
+		{"fromNode":"d44adbaf67ec8db2","fromSide":"right","id":"d7f63fa3bc2d5d76","toNode":"5cc8d69de926aa7f","toSide":"left"},
+		{"fromNode":"d44adbaf67ec8db2","fromSide":"right","id":"ca22588bd0587e4a","toNode":"c267c6cacd6d8543","toSide":"left"},
+		{"fromNode":"d44adbaf67ec8db2","fromSide":"right","id":"417d03bf904ef39b","toNode":"b1696e3040f46704","toSide":"left"},
+		{"fromNode":"d44adbaf67ec8db2","fromSide":"right","id":"49015985e7603a5b","toNode":"6f7ad7440b73de7d","toSide":"left"},
+		{"fromNode":"8e3d92e03f61f300","fromSide":"right","id":"440068da1043a648","toNode":"8dfa8ef9447f592b","toSide":"left"},
+		{"fromNode":"8e3d92e03f61f300","fromSide":"right","id":"1b6cff82f3ab79c5","toNode":"e2b23b7eb424db26","toSide":"left"},
+		{"fromNode":"8e3d92e03f61f300","fromSide":"right","id":"f898aea0973f10f6","toNode":"6b7963acf7d661d8","toSide":"left"},
+		{"fromNode":"efd1a57aff46665a","fromSide":"right","id":"bdea33fd2373072f","toNode":"e1dc63dd9a8f11da","toSide":"left"},
+		{"fromNode":"efd1a57aff46665a","fromSide":"right","id":"e7a0bfde01abbc2b","toNode":"ec5f8a3fe7b7d292","toSide":"left"},
+		{
+			"fromNode":"efd1a57aff46665a",
+			"fromSide":"right",
+			"id":"ee9fc8c547325e1d",
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
+			"toNode":"904dae861d826474",
+			"toSide":"left"
+		},
+		{"fromNode":"a6458d5085666adb","fromSide":"right","id":"27d41ab88c88a554","toNode":"d44adbaf67ec8db2","toSide":"left"},
+		{"fromNode":"63854dd70a0a708f","fromSide":"right","id":"59f08630579bf114","toNode":"bcd4f2ed12db4a99","toSide":"left"},
+		{"fromNode":"9f87336909eb5d08","fromSide":"right","id":"1a82823afdfc7782","toNode":"8e3d92e03f61f300","toSide":"left"},
+		{"fromNode":"060b4925ed711e78","fromSide":"right","id":"745819430b18b328","toNode":"efd1a57aff46665a","toSide":"left"},
+		{
+			"fromNode":"c033c5434f229179",
+			"fromSide":"right",
+			"id":"14c29458e76515aa",
+			"styleAttributes":{},
+			"toNode":"bcd4f2ed12db4a99",
+			"toSide":"left"
+		}
+	],
+	"nodes":[
+		{
+			"color":"6",
+			"height":1680,
+			"id":"5baa6dad2d20ce32",
+			"label":"Tous les projets",
+			"styleAttributes":{},
+			"type":"group",
+			"width":381,
+			"x":640,
+			"y":-680
+		},
+		{
+			"color":"2",
+			"height":1345,
+			"id":"5b15632fbefc3ce1",
+			"label":"Groupe de projets",
+			"styleAttributes":{},
+			"type":"group",
+			"width":371,
+			"x":60,
+			"y":-420
+		},
+		{
+			"color":"4",
+			"height":1021,
+			"id":"6b31adf0613e8eee",
+			"label":"Langages",
+			"styleAttributes":{},
+			"type":"group",
+			"width":300,
+			"x":1220,
+			"y":-420
+		},
+		{
+			"color":"5",
+			"height":695,
+			"id":"01362c0b64ec36b9",
+			"label":"Chronologie",
+			"styleAttributes":{},
+			"type":"group",
+			"width":409,
+			"x":-520,
+			"y":-99
+		},
+		{
+			"color":"#e45c44",
+			"height":342,
+			"id":"4edd95de1aa0be3f",
+			"label":"Services/outils",
+			"styleAttributes":{},
+			"type":"group",
+			"width":360,
+			"x":1732,
+			"y":-185
+		},
+		{
+			"color":"3",
+			"height":218,
+			"id":"f64002b27ce0d2f1",
+			"label":"Diplômes",
+			"styleAttributes":{},
+			"type":"group",
+			"width":360,
+			"x":1732,
+			"y":240
+		},
+		{
+			"height":86,
+			"id":"9c72f0318ccf44e4",
+			"styleAttributes":{},
+			"text":"Déploiement des services de manière locale en **Powershell**",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":-637
+		},
+		{
+			"height":60,
+			"id":"571e91d3ef70d2c2",
+			"styleAttributes":{},
+			"text":"Mise en place de tous les services avec **Docker**",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":-528
+		},
+		{
+			"color":"3",
+			"height":121,
+			"id":"b34801f598608c4a",
+			"styleAttributes":{},
+			"text":"**PhotoUploader**, un outil de gestion de galerie photo distante, avec modification des métadonnées intégrée",
+			"type":"text",
+			"width":284,
+			"x":691,
+			"y":-445
+		},
+		{
+			"height":60,
+			"id":"6f7ad7440b73de7d",
+			"styleAttributes":{},
+			"text":"Application mobile pour le staff",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":152
+		},
+		{
+			"color":"3",
+			"height":105,
+			"id":"8dfa8ef9447f592b",
+			"styleAttributes":{},
+			"text":"Création d'emplois du temps de lycée par recuit simulé (ML)",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":260
+		},
+		{
+			"height":122,
+			"id":"dbfb7e1afe3015d5",
+			"styleAttributes":{},
+			"text":"##### Algorithmique & ML\n\n![My Skills](https://skillicons.dev/icons?i=python,tensorflow,anaconda&theme=dark&perline=5) ",
+			"type":"text",
+			"width":260,
+			"x":1240,
+			"y":20
+		},
+		{
+			"height":60,
+			"id":"5cc8d69de926aa7f",
+			"styleAttributes":{},
+			"text":"Site vitrine",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":-136
+		},
+		{
+			"height":102,
+			"id":"75663ebbcae5a058",
+			"styleAttributes":{},
+			"text":"Fork et modification d'un cloud auto-hébergé pour les tablettes Remarkable",
+			"type":"text",
+			"width":267,
+			"x":691,
+			"y":-301
+		},
+		{
+			"height":82,
+			"id":"060b4925ed711e78",
+			"styleAttributes":{},
+			"text":"Programmation orientée-objet en JS et TS pour des projets de Web",
+			"type":"text",
+			"width":369,
+			"x":-500,
+			"y":494
+		},
+		{
+			"height":76,
+			"id":"a6458d5085666adb",
+			"styleAttributes":{},
+			"text":"Apprentissage de l'HTML, CSS, JS et PHP pour la Ronde de l'Espoir",
+			"type":"text",
+			"width":369,
+			"x":-500,
+			"y":280
+		},
+		{
+			"height":60,
+			"id":"9f87336909eb5d08",
+			"styleAttributes":{},
+			"text":"Développement en Python d'algorithmes complexes",
+			"type":"text",
+			"width":369,
+			"x":-500,
+			"y":396
+		},
+		{
+			"color":"1",
+			"height":133,
+			"id":"22bdecc84c2375ab",
+			"styleAttributes":{},
+			"text":"##### Systèmes d'exploitation\n![My Skills](https://skillicons.dev/icons?i=windows,linux,mint,ubuntu&theme=dark&perline=4)",
+			"type":"text",
+			"width":283,
+			"x":-457,
+			"y":640
+		},
+		{
+			"height":134,
+			"id":"c2a2f4ab8126c9ae",
+			"styleAttributes":{},
+			"text":"##### Langages compilés\n![My Skills](https://skillicons.dev/icons?i=go,cs,net&theme=dark&perline=5)",
+			"type":"text",
+			"width":228,
+			"x":1256,
+			"y":182
+		},
+		{
+			"height":200,
+			"id":"cbca760e8af7fd10",
+			"styleAttributes":{},
+			"text":"##### Web avec frameworks\n\n![My Skills](https://skillicons.dev/icons?i=nodejs,ts,vue,pinia,react,mongodb&theme=dark&perline=3)",
+			"type":"text",
+			"width":260,
+			"x":1240,
+			"y":356
+		},
+		{
+			"height":75,
+			"id":"4f5b068ca1dfd71b",
+			"styleAttributes":{},
+			"text":"Programmation visuelle de robots Lego Mindstorms",
+			"type":"text",
+			"width":369,
+			"x":-500,
+			"y":-79
+		},
+		{
+			"height":76,
+			"id":"c033c5434f229179",
+			"styleAttributes":{},
+			"text":"Programmation procédurale en Batch et Powershell pour des automatisations",
+			"type":"text",
+			"width":369,
+			"x":-500,
+			"y":36
+		},
+		{
+			"height":191,
+			"id":"da010a5d581126dc",
+			"styleAttributes":{},
+			"text":"##### Débuts en Web\n\n![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php,mysql&theme=dark&perline=3)",
+			"type":"text",
+			"width":220,
+			"x":1260,
+			"y":-211
+		},
+		{
+			"height":177,
+			"id":"d44adbaf67ec8db2",
+			"styleAttributes":{},
+			"text":"#### Ronde de l'Espoir\n\nChef d'équipe pour le développement d'un ensemble de sites dynamiques pour un projet caritatif au sein du lycée",
+			"type":"text",
+			"width":331,
+			"x":80,
+			"y":-3
+		},
+		{
+			"height":206,
+			"id":"8e3d92e03f61f300",
+			"styleAttributes":{},
+			"text":"#### Algorithmique complexe\n\nUtilisation de Python pour le développement d'algorithmes d'analyse de données, mais aussi des bases d'un système de *machine learning*",
+			"type":"text",
+			"width":319,
+			"x":86,
+			"y":390
+		},
+		{
+			"height":75,
+			"id":"36b97a79fbe81be0",
+			"styleAttributes":{},
+			"text":"![My Skills](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark&perline=4)",
+			"type":"text",
+			"width":240,
+			"x":1752,
+			"y":-57
+		},
+		{
+			"height":72,
+			"id":"0c0146567a5aaead",
+			"styleAttributes":{},
+			"text":"\n![My Skills](https://skillicons.dev/icons?i=postman,npm,vercel&theme=dark&perline=5)",
+			"type":"text",
+			"width":240,
+			"x":1752,
+			"y":54
+		},
+		{
+			"height":75,
+			"id":"5912796ad723e765",
+			"styleAttributes":{},
+			"text":"*Foundational C#* de Microsoft et Freecodecamp",
+			"type":"text",
+			"width":308,
+			"x":1752,
+			"y":265
+		},
+		{
+			"height":74,
+			"id":"7789788e5a9cce86",
+			"styleAttributes":{},
+			"text":"*Back End Development and APIs* de Freecodecamp",
+			"type":"text",
+			"width":308,
+			"x":1752,
+			"y":360
+		},
+		{
+			"height":162,
+			"id":"bcd4f2ed12db4a99",
+			"styleAttributes":{},
+			"text":"#### Construction d'un NAS\nConstruction d'un serveur (Raspberry Pi 4) de type NAS",
+			"type":"text",
+			"width":280,
+			"x":106,
+			"y":-361
+		},
+		{
+			"height":88,
+			"id":"63854dd70a0a708f",
+			"styleAttributes":{},
+			"text":"Apprentissage de l'environnement Linux en ligne de commande",
+			"type":"text",
+			"width":369,
+			"x":-500,
+			"y":152
+		},
+		{
+			"height":60,
+			"id":"46e199535d7b7c40",
+			"styleAttributes":{},
+			"text":"# Depuis 5 ans...",
+			"type":"text",
+			"width":260,
+			"x":-445,
+			"y":-259
+		},
+		{
+			"height":72,
+			"id":"d9d74299c2cecf56",
+			"styleAttributes":{},
+			"text":"\n![My Skills](https://skillicons.dev/icons?i=raspberrypi,debian,docker,nginx,cloudflare&theme=dark&perline=5)",
+			"type":"text",
+			"width":320,
+			"x":1752,
+			"y":-165
+		},
+		{
+			"height":65,
+			"id":"efd1a57aff46665a",
+			"styleAttributes":{},
+			"text":"#### Divers projets de Web",
+			"type":"text",
+			"width":276,
+			"x":108,
+			"y":800
+		},
+		{
+			"height":122,
+			"id":"d55d6b90f74a8adc",
+			"styleAttributes":{},
+			"text":"##### Administration\n\n![My Skills](https://skillicons.dev/icons?i=powershell,bash&theme=dark)",
+			"type":"text",
+			"width":220,
+			"x":1260,
+			"y":-373
+		},
+		{
+			"height":60,
+			"id":"c267c6cacd6d8543",
+			"styleAttributes":{},
+			"text":"Site de donation avec paiement par Stripe",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":-53
+		},
+		{
+			"color":"3",
+			"height":99,
+			"id":"b1696e3040f46704",
+			"styleAttributes":{},
+			"text":"Site d'inscription fondé sur un système relationnel entre les inscrits",
+			"type":"text",
+			"width":250,
+			"x":691,
+			"y":30
+		},
+		{
+			"height":50,
+			"id":"904dae861d826474",
+			"styleAttributes":{},
+			"text":"Et autres...",
+			"type":"text",
+			"width":145,
+			"x":691,
+			"y":900
+		},
+		{
+			"color":"3",
+			"height":90,
+			"id":"ec5f8a3fe7b7d292",
+			"styleAttributes":{},
+			"text":"Site de gestion des retards lors de rendez-vous parents-professeurs",
+			"type":"text",
+			"width":310,
+			"x":691,
+			"y":680
+		},
+		{
+			"height":53,
+			"id":"e1dc63dd9a8f11da",
+			"styleAttributes":{},
+			"text":"Site portfolio",
+			"type":"text",
+			"width":157,
+			"x":691,
+			"y":806
+		},
+		{
+			"color":"3",
+			"height":139,
+			"id":"e2b23b7eb424db26",
+			"styleAttributes":{},
+			"text":"Algorithme d'analyse d'abre de divergence génétique, lors d'un stage en laboratoire de recherche évolutive",
+			"type":"text",
+			"width":290,
+			"x":691,
+			"y":388
+		},
+		{
+			"height":111,
+			"id":"6b7963acf7d661d8",
+			"styleAttributes":{},
+			"text":"*Data science* : retravail des données de Parcoursup et de la SCEI avec Pandas",
+			"type":"text",
+			"width":254,
+			"x":691,
+			"y":545
+		}
+	]
 }
